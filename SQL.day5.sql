@@ -205,19 +205,4 @@ ORDER BY maas ASC
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 SELECT * FROM person;
